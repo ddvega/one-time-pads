@@ -1,5 +1,5 @@
 /*******************************************************************************
-** Program:       Assignment 4 - CS344
+** Program:       Assignment 4
 ** Author:        David Vega
 ** Date:          8/1/20
 ** Description:   In this assignment, you will be creating five small programs
